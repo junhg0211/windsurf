@@ -5,6 +5,12 @@
 </script>
 
 <svelte:head>
+	<style>
+		body {
+			margin: 0;
+			font-family: 'Inter', sans-serif;
+		}
+	</style>
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
